@@ -1,0 +1,20 @@
+{
+    "name": "arjunacoding/pagination",
+    "description": "Bedigas is a fast, simple, extensible framework for PHP. Bedigas enables you to quickly and easily build RESTful web applications.",
+    "homepage": "http://paginationphp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arjuna o",
+            "email": "arjuna@arjunacoding.com",
+            "homepage": "http://www.arjunacoding.com/",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [ "pagination/autoload.php", "pagination/pagination.php" ]
+    }
+}
